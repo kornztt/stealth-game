@@ -1,0 +1,23 @@
+/* GHOSTLIGHT — page chrome around the canvas. */
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #0a0912;
+  color: #e7e5f4;
+  font-family: system-ui, sans-serif;
+}
+.wrap {
+  width: 1280px;
+  margin: 0 auto;
+  padding-top: 12px;
+}
+canvas {
+  display: block;
+  background: #1c1a26;
+  border: 1px solid #3a3550;
+}
+.hint {
+  margin: 8px 0 0;
+  font-size: 14px;
+  color: #9b98b8;
+}
